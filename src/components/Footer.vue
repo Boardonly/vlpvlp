@@ -3,7 +3,7 @@
   <div class="vlp-footer">
     <div class="row">
       <div class="vlp-coll-left ba-coll">
-        <img src="../../public/img/Group1.jpg" alt="university" />
+        <img src="'./img/Group1.jpg'" alt="university" />
       </div>
       <!-- /.vlp-coll-left -->
       <div class="vlp-coll-center ba-coll">
